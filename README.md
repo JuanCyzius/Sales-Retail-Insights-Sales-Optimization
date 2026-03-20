@@ -1,4 +1,4 @@
-#Store Sales Analysis
+# Store Sales Analysis
 
 An end-to-end sales analytics project using **SQL for data preparation and analysis** and **Power BI for building an interactive dashboard** to visualize key business insights from an electronics retail dataset.
 
